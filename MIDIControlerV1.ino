@@ -1,7 +1,7 @@
 #include <Bounce.h>
  
 // pin definitions
-const int digital_pin[] = {  0, 1, 2,    3, 4, 5,    6, 7, 8,    32, 10, 11,    12, 19,21,    22,23,24,    25,26,27,    28,29,30};
+const int digital_pin[] = {  33, 34, 2,    3, 4, 5,    6, 7, 8,    32, 10, 11,    12, 19,21,    22,23,24,    25,26,27,    28,29,30};
 const int analog_pin[] = { A1, A2, A3, A4, A6, A12 };
  
 // variables for the states of the controls
